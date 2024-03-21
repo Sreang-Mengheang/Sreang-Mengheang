@@ -1,4 +1,3 @@
-https://images.app.goo.gl/9n3hqPhYbBP9qXTK7
 <h1 align="center">Hi 👋, I'm Sreang Mengheang</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
